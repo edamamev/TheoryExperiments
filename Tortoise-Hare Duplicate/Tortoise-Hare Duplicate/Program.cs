@@ -9,12 +9,12 @@ namespace Tortoise_Hare_Duplicate
         /// </summary>
         /// <param name="nums">Integer Array Input.</param>
         /// <returns></returns>
-        static int findDuplicate0(int[] nums) {
+        static int findDuplicate0(int[] b) {
             int a = 0;
-            for (int i = 0; i < nums.Length; i++) {
-                for (int j = 0; j < nums.Length; j++) {
-                    if (nums[i] == nums[j]) {
-                        a = nums[j];
+            for (int i = 0; i < b.Length; i++) {
+                for (int j = 0; j < b.Length; j++) {
+                    if (b[i] == b[j]) {
+                        a = b[j];
                     }
                 }
             }
@@ -26,29 +26,29 @@ namespace Tortoise_Hare_Duplicate
         /// </summary>
         /// <param name="nums">Integer Array Input.</param>
         /// <returns></returns>
-        static int findDuplicate1(int[] nums) {
-            int tortoise = nums[0];
-            int hare = nums[0];
+        static int findDuplicate1(int[] a) {
+            int t = a[0];
+            int h = a[0];
             while (true){
-                tortoise = nums[tortoise];
-                hare = nums[nums[hare]];
-                if (tortoise == hare) {
+                t = a[t];
+                h = a[a[h]];
+                if (t == h) {
                     break;
                 }
             }
-            int ptr1 = nums[0];
-            int ptr2 = tortoise;
-            while (ptr1 != ptr2) {
-                ptr1 = nums[ptr1];
-                ptr2 = nums[ptr2];
+            int a1 = a[0];
+            int a2 = t;
+            while (a1 != a2) {
+                a1 = a[a1];
+                a2 = a[a2];
             }
-            return ptr1;
+            return a1;
         }
 
         static void Main(string[] args)
         {
-            int[] a = { 4, 1, 5, 6, 4};
-            Console.WriteLine(findDuplicate0(a));
+            int[] a = { 8, 6, 3, 4, 1, 3, 2, 5, 7 };
+            Console.WriteLine(findDuplicate1(a));
             Console.ReadLine();
         }
     }
