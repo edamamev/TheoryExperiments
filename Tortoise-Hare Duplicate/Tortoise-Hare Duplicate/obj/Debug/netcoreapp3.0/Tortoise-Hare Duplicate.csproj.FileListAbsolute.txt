@@ -1,0 +1,11 @@
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\bin\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.exe
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\bin\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.deps.json
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\bin\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.runtimeconfig.json
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\bin\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.runtimeconfig.dev.json
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\bin\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.dll
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\bin\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.pdb
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\obj\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.csprojAssemblyReference.cache
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\obj\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.AssemblyInfoInputs.cache
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\obj\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.AssemblyInfo.cs
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\obj\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.dll
+C:\Users\Nicholas Maver\Desktop\GitHub\TheoryExperiments\Tortoise-Hare Duplicate\Tortoise-Hare Duplicate\obj\Debug\netcoreapp3.0\Tortoise-Hare Duplicate.pdb
