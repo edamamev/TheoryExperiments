@@ -1,0 +1,16 @@
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\bin\Debug\net5.0\Experiments Solution.exe
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\bin\Debug\net5.0\Experiments Solution.deps.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\bin\Debug\net5.0\Experiments Solution.runtimeconfig.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\bin\Debug\net5.0\Experiments Solution.runtimeconfig.dev.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\bin\Debug\net5.0\Experiments Solution.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\bin\Debug\net5.0\ref\Experiments Solution.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\bin\Debug\net5.0\Experiments Solution.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\Experiments Solution.csproj.AssemblyReference.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\Experiments Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\Experiments Solution.AssemblyInfoInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\Experiments Solution.AssemblyInfo.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\Experiments Solution.csproj.CoreCompileInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\Experiments Solution.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\ref\Experiments Solution.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\Experiments Solution.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Experiments Solution\Experiments Solution\obj\Debug\net5.0\Experiments Solution.genruntimeconfig.cache

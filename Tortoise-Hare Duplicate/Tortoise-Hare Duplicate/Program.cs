@@ -10,15 +10,14 @@ namespace Tortoise_Hare_Duplicate
         /// <param name="nums">Integer Array Input.</param>
         /// <returns></returns>
         static int findDuplicate0(int[] b) {
-            int a = 0;
             for (int i = 0; i < b.Length; i++) {
                 for (int j = 0; j < b.Length; j++) {
                     if (b[i] == b[j]) {
-                        a = b[j];
+                        return b[j];
                     }
                 }
             }
-            return a;
+            return -1;
         }
         
         /// <summary>
