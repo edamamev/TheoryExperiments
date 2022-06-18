@@ -1,0 +1,16 @@
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\bin\Debug\net5.0\Shortest Path Problem.exe
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\bin\Debug\net5.0\Shortest Path Problem.deps.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\bin\Debug\net5.0\Shortest Path Problem.runtimeconfig.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\bin\Debug\net5.0\Shortest Path Problem.runtimeconfig.dev.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\bin\Debug\net5.0\Shortest Path Problem.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\bin\Debug\net5.0\ref\Shortest Path Problem.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\bin\Debug\net5.0\Shortest Path Problem.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\Shortest Path Problem.csproj.AssemblyReference.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\Shortest Path Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\Shortest Path Problem.AssemblyInfoInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\Shortest Path Problem.AssemblyInfo.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\Shortest Path Problem.csproj.CoreCompileInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\Shortest Path Problem.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\ref\Shortest Path Problem.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\Shortest Path Problem.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\Shortest Path Problem\Shortest Path Problem\obj\Debug\net5.0\Shortest Path Problem.genruntimeconfig.cache
