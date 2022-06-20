@@ -14,15 +14,16 @@ namespace Shortest_Path_Problem
             var edges = new HashSet<(object, object)>(GetEdges());
             var weights = GetWeightFunction();
             Dictionary<object, object> parents;
-            Dictionary<object, int> distance;
-            g.
-            g.ShortestWeightedPathToDestination();
-            g.ShortestWeightedPath(vertices, edges, ref weights, 'A', out parents, out distance);
-            List<object> path = new();
-            g.PathFromTree(parents, 'E', ref path);
-            foreach (object entry in path) {
-                Console.WriteLine(entry);
-            }
+            Dictionary<object, float> distance;
+            Dictionary<object, float> vertWeights;
+            //g.
+            //g.ShortestWeightedPathToDestination();
+            //g.ShortestWeightedPath(vertices, edges, ref weights, 'A', out parents, out distance);
+            //List<object> path = new();
+            //g.PathFromTree(parents, 'E', ref path);
+            //foreach (object entry in path) {
+            //    Console.WriteLine(entry);
+            //}
         }
 
         static HashSet<object> GetVertices() {
