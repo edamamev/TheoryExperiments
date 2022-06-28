@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicholas Maver\\Desktop\\GitHub\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\Shortest Path Problem.csproj": {}
+    "C:\\Users\\Nic\\Desktop\\Github Repos\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\Shortest Path Problem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicholas Maver\\Desktop\\GitHub\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\Shortest Path Problem.csproj": {
+    "C:\\Users\\Nic\\Desktop\\Github Repos\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\Shortest Path Problem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicholas Maver\\Desktop\\GitHub\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\Shortest Path Problem.csproj",
+        "projectUniqueName": "C:\\Users\\Nic\\Desktop\\Github Repos\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\Shortest Path Problem.csproj",
         "projectName": "Shortest Path Problem",
-        "projectPath": "C:\\Users\\Nicholas Maver\\Desktop\\GitHub\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\Shortest Path Problem.csproj",
-        "packagesPath": "C:\\Users\\Nicholas Maver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicholas Maver\\Desktop\\GitHub\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\obj\\",
+        "projectPath": "C:\\Users\\Nic\\Desktop\\Github Repos\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\Shortest Path Problem.csproj",
+        "packagesPath": "C:\\Users\\Nic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nic\\Desktop\\Github Repos\\TheoryExperiments\\Shortest Path Problem\\Shortest Path Problem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nicholas Maver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

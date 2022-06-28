@@ -58,9 +58,9 @@ namespace Shortest_Path_Problem
         #endregion
 
         #region Neighbourhoods
-        public HashSet<object> N(HashSet<object> V, object u) {
+        public HashSet<object> N(object u) {
             var neighbourhood = new HashSet<object>();
-            foreach (object v in V) {
+            foreach (object v in Vertices) {
                 if (Edges.Contains((u, v))) {
                     neighbourhood.Add(v);
                 }
@@ -132,7 +132,7 @@ namespace Shortest_Path_Problem
             var Dnew = NS(D);
             if (Dnew.Count == 0) return;
             foreach (object v in Dnew) {
-                parents[v] = N(Vertices, v).ToArray()[0];
+                parents[v] = N(v).ToArray()[0];
             }
             foreach (object v in Dnew) {
                 V.Remove(v);
@@ -237,7 +237,7 @@ namespace Shortest_Path_Problem
                 // 'w' being the next vertice to check.
                 // Currently set to the next shortest path in the priority queue 'Q'
                 w = Q[0];
-                var vN = validNeighbours(Vertices, S, w);
+                var vN = validNeighbours(S, w);
                 // Foreach neighbour of 'w' that hasn't had it's shortest path solved.
                 foreach (object v in vN) {
                     var dist = distance[w] + GetEdgeWeight((v, w));
@@ -283,7 +283,7 @@ namespace Shortest_Path_Problem
                 // 'w' being the next vertice to check.
                 // Currently set to the next shortest path in the priority queue 'Q'
                 w = Q[0];
-                var vN = validNeighbours(Vertices, S, w);
+                var vN = validNeighbours(S, w);
                 // Foreach neighbour of 'w' that hasn't had it's shortest path solved.
                 foreach (object v in vN) {
                     var dist = distance[w] + GetEdgeWeight((v, w));
@@ -314,9 +314,9 @@ namespace Shortest_Path_Problem
             }
         }
 
-        public HashSet<object> validNeighbours(HashSet<object> V, HashSet<object> S, object u) {
+        public HashSet<object> validNeighbours(HashSet<object> S, object u) {
             HashSet<object> neighbours = new();
-            foreach (object neighbour in N(V, u)) {
+            foreach (object neighbour in N(u)) {
                 if (!S.Contains(neighbour)) neighbours.Add(neighbour);
             }
             return neighbours;
@@ -403,7 +403,7 @@ namespace Shortest_Path_Problem
                 // 'w' being the next vertex to check.
                 // Currently set to the next shortest path in the priority queue 'Q'
                 w = Q[0];
-                var vN = validNeighbours(Vertices, S, w);
+                var vN = validNeighbours(S, w);
                 // Foreach neighbour of 'w' that hasn't had it's shortest path solved.
                 foreach (object v in vN) {
                     var dist = distance[w] + GetEdgeWeight((v, w)) + GetVertWeight(w); /*Added `GetVertWeight(w)` as part of the A* Algorithm... not sure if it's in the right spot. :/  */
