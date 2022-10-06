@@ -1,0 +1,10 @@
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\bin\Debug\GraphVS.exe.config
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\bin\Debug\GraphVS.exe
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\bin\Debug\GraphVS.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\obj\Debug\GraphVS.csproj.AssemblyReference.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\obj\Debug\GraphVS.Form1.resources
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\obj\Debug\GraphVS.Properties.Resources.resources
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\obj\Debug\GraphVS.csproj.GenerateResource.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\obj\Debug\GraphVS.csproj.CoreCompileInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\obj\Debug\GraphVS.exe
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\GraphVS\GraphVS\obj\Debug\GraphVS.pdb

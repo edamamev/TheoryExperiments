@@ -1,0 +1,27 @@
+﻿<Window x:Class="VisualGraphing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VisualGraphing"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="603" Width="1168" MouseMove="window_MouseMove">
+    <Grid x:Name="grid0" Margin="0,0,0,-6">
+        <Button x:Name="btnRctAdd" Content="Add Panel" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="38" Width="101" Click="btnPnlAdd_Click"/>
+        <Rectangle HorizontalAlignment="Left" Height="100" Margin="10,99,0,0" Stroke="Black" VerticalAlignment="Top" Width="100" RadiusX="0" RadiusY="0" Fill="Black"/>
+        <Button x:Name="btnRctRmv" Content="Remove Rect" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" Height="40" Width="101" Click="btnRctRmv_Click"/>
+        <Button x:Name="btnLine" Content="Button" HorizontalAlignment="Left" Margin="116,10,0,0" VerticalAlignment="Top" Height="52" Width="70" Click="btnLine_Click"/>
+        <Grid x:Name="grdGraph" Margin="453,10,10,394" Background="#FFA4A4A4"/>
+        <Button x:Name="btnGraphView" Content="View Graph" HorizontalAlignment="Left" Margin="191,12,0,0" VerticalAlignment="Top" Height="48" Width="97" Click="btnGraphView_Click"/>
+        <Grid x:Name="grdMove" Margin="523,294,0,0" Background="#FF6FB1B0" HorizontalAlignment="Left" Width="400" Height="155" VerticalAlignment="Top" ClipToBounds="True">
+            <Rectangle x:Name="rctMoveContent" HorizontalAlignment="Left" Height="76" Margin="130,52,0,0" Stroke="Black" VerticalAlignment="Top" Width="100" Fill="#FFD1E04C"/>
+            <Rectangle x:Name="rctMove" Margin="130,28,0,0" Stroke="Black" Fill="#FFC6C758" MouseLeftButtonDown="rctMove_MouseLeftButtonDown" MouseLeftButtonUp="rctMove_MouseLeftButtonUp" HorizontalAlignment="Left" Width="100" Height="25" VerticalAlignment="Top"/>
+        </Grid>
+        <Canvas x:Name="cnvMove" Margin="73,217,0,0" Background="#FFB961B6" ClipToBounds="True" HorizontalAlignment="Left" Width="361" Height="250" VerticalAlignment="Top">
+            <Rectangle x:Name="rctMove2" Height="100" Stroke="Black" Canvas.Top="14" Width="100" Fill="#FF39CC2D" Canvas.Left="10" MouseLeftButtonDown="rctMove2_MouseLeftButtonDown" MouseLeftButtonUp="rctMove2_MouseLeftButtonUp"/>
+        </Canvas>
+        <Button x:Name="btnTestBar" Content="Open Test Bar Window" HorizontalAlignment="Left" Margin="151,105,0,0" VerticalAlignment="Top" Height="44" Width="137" Click="btnTestBar_Click"/>
+        <Button x:Name="btnZoom" Content="GotoZoom Shit" HorizontalAlignment="Left" Margin="317,74,0,0" VerticalAlignment="Top" Height="53" Width="84" Click="btnZoom_Click"/>
+
+    </Grid>
+</Window>

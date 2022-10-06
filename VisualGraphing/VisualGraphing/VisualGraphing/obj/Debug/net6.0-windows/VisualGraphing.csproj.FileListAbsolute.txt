@@ -1,0 +1,27 @@
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\bin\Debug\net6.0-windows\VisualGraphing.exe
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\bin\Debug\net6.0-windows\VisualGraphing.deps.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\bin\Debug\net6.0-windows\VisualGraphing.runtimeconfig.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\bin\Debug\net6.0-windows\VisualGraphing.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\bin\Debug\net6.0-windows\VisualGraphing.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.csproj.AssemblyReference.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing_MarkupCompile.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing_MarkupCompile.lref
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.g.resources
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.AssemblyInfoInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.AssemblyInfo.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.csproj.CoreCompileInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\refint\VisualGraphing.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\VisualGraphing.genruntimeconfig.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\ref\VisualGraphing.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\TestBar.g.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\TestBar.baml
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\Font Testing.g.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\Font Testing.baml
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\WorldSpace.g.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\VisualGraphing\VisualGraphing\VisualGraphing\obj\Debug\net6.0-windows\WorldSpace.baml

@@ -1,0 +1,16 @@
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\bin\Debug\net5.0\ScaleneArea.exe
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\bin\Debug\net5.0\ScaleneArea.deps.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\bin\Debug\net5.0\ScaleneArea.runtimeconfig.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\bin\Debug\net5.0\ScaleneArea.runtimeconfig.dev.json
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\bin\Debug\net5.0\ScaleneArea.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\bin\Debug\net5.0\ScaleneArea.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ScaleneArea.csproj.AssemblyReference.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ScaleneArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ScaleneArea.AssemblyInfoInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ScaleneArea.AssemblyInfo.cs
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ScaleneArea.csproj.CoreCompileInputs.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ScaleneArea.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\refint\ScaleneArea.dll
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ScaleneArea.pdb
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ScaleneArea.genruntimeconfig.cache
+C:\Users\Nic\Desktop\Github Repos\TheoryExperiments\ScaleneArea\obj\Debug\net5.0\ref\ScaleneArea.dll
